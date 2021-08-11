@@ -79,7 +79,6 @@ namespace ValidatingApplicationInput
                 }
                 catch (MyCustomException ex)
                 {
-
                     Console.WriteLine(ex.Message);
                 }
             }
